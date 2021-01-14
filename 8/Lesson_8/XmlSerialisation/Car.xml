@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cars>
+  <Car year = "2008">
+    <Brand>Audi</Brand>
+    <Mode>A6</Mode>
+    <!--- just comment-->
+    <Info min ="6000" max ="20000" speed ="280"></Info>
+  </Car>
+<Car year = "2018">
+    <Brand>BMW</Brand>
+    <Mode>X7</Mode>
+    <!--- just comment-->
+    <Info min ="16000" max ="120000" speed ="380"></Info>
+  </Car>
+</Cars>

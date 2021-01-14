@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

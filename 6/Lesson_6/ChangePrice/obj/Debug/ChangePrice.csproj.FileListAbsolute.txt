@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\ChangePrice\bin\Debug\ChangePrice.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\ChangePrice\bin\Debug\ChangePrice.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\ChangePrice\bin\Debug\ChangePrice.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\ChangePrice\obj\Debug\ChangePrice.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\ChangePrice\obj\Debug\ChangePrice.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\ChangePrice\obj\Debug\ChangePrice.pdb

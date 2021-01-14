@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\bin\Debug\Indexator.exe.config
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\bin\Debug\Indexator.exe
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\bin\Debug\Indexator.pdb
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\obj\Debug\Indexator.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\obj\Debug\Indexator.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\obj\Debug\Indexator.exe
+D:\Working place\Programming(step + other)\C#\4\Lesson_4\Indexator\obj\Debug\Indexator.pdb

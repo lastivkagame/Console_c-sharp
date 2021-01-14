@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\bin\Debug\DirectoryDemo.exe.config
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\bin\Debug\DirectoryDemo.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\bin\Debug\DirectoryDemo.pdb
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\obj\Debug\DirectoryDemo.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\obj\Debug\DirectoryDemo.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DirectoryDemo\obj\Debug\DirectoryDemo.pdb

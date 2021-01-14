@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Olia",
+    "LastName": "Olivkova",
+    "Age": 19,
+    "StudentId": "d1f8cb5f-a8ec-4500-9203-ed64c6f485f1"
+  },
+  {
+    "Name": "Alex",
+    "LastName": "lexov",
+    "Age": 19,
+    "StudentId": "4af453ff-e124-4808-b62e-ee3250a79304"
+  },
+  {
+    "Name": "Vova",
+    "LastName": "Vinov",
+    "Age": 20,
+    "StudentId": "4332aa20-23a6-4d60-875d-3e529cad5707"
+  },
+  {
+    "Name": "Ivan",
+    "LastName": "Ivanenko",
+    "Age": 18,
+    "StudentId": "26fd2f3d-fb89-469d-b062-e9fbeef7e522"
+  }
+]

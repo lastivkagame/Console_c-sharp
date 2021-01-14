@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\bin\Debug\StandartInterfaces.exe.config
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\bin\Debug\StandartInterfaces.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\bin\Debug\StandartInterfaces.pdb
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\obj\Debug\StandartInterfaces.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\obj\Debug\StandartInterfaces.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\obj\Debug\StandartInterfaces.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StandartInterfaces\obj\Debug\StandartInterfaces.pdb

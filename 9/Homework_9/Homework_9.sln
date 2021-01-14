@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_1", "task_1\task_1.csproj", "{D5DB29CE-B21C-481D-AA08-3EE6F61F8C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLib", "StudentLib\StudentLib.csproj", "{849BF8AD-301A-461D-B480-8749F4DF6A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_2", "task_2\task_2.csproj", "{53246490-B5AD-4063-BA2D-987412C3D93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DB29CE-B21C-481D-AA08-3EE6F61F8C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DB29CE-B21C-481D-AA08-3EE6F61F8C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DB29CE-B21C-481D-AA08-3EE6F61F8C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DB29CE-B21C-481D-AA08-3EE6F61F8C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849BF8AD-301A-461D-B480-8749F4DF6A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849BF8AD-301A-461D-B480-8749F4DF6A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849BF8AD-301A-461D-B480-8749F4DF6A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849BF8AD-301A-461D-B480-8749F4DF6A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53246490-B5AD-4063-BA2D-987412C3D93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53246490-B5AD-4063-BA2D-987412C3D93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53246490-B5AD-4063-BA2D-987412C3D93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53246490-B5AD-4063-BA2D-987412C3D93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F570F0AB-5586-46FE-A930-9D3FCBE39A64}
+	EndGlobalSection
+EndGlobal

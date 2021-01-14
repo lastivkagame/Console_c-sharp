@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StackDemo\bin\Debug\StackDemo.exe.config
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StackDemo\bin\Debug\StackDemo.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StackDemo\bin\Debug\StackDemo.pdb
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StackDemo\obj\Debug\StackDemo.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\StackDemo\obj\Debug\StackDemo.pdb

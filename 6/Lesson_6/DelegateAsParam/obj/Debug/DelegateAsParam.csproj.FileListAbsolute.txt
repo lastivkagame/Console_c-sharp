@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\DelegateAsParam\bin\Debug\DelegateAsParam.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\DelegateAsParam\bin\Debug\DelegateAsParam.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\DelegateAsParam\bin\Debug\DelegateAsParam.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\DelegateAsParam\obj\Debug\DelegateAsParam.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\DelegateAsParam\obj\Debug\DelegateAsParam.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\DelegateAsParam\obj\Debug\DelegateAsParam.pdb

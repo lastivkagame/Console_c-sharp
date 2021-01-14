@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\ExceptionDemo2\bin\Debug\ExceptionDemo2.exe.config
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\ExceptionDemo2\bin\Debug\ExceptionDemo2.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\ExceptionDemo2\bin\Debug\ExceptionDemo2.pdb
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\ExceptionDemo2\obj\Debug\ExceptionDemo2.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\ExceptionDemo2\obj\Debug\ExceptionDemo2.exe
+D:\Working place\Programming(step + other)\C#\5\Lesson_5\ExceptionDemo2\obj\Debug\ExceptionDemo2.pdb

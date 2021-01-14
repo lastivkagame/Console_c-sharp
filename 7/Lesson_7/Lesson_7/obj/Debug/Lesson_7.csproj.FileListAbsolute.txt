@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\bin\Debug\Lesson_7.exe.config
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\bin\Debug\Lesson_7.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\bin\Debug\Lesson_7.pdb
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\obj\Debug\Lesson_7.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\obj\Debug\Lesson_7.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\obj\Debug\Lesson_7.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\Lesson_7\obj\Debug\Lesson_7.pdb

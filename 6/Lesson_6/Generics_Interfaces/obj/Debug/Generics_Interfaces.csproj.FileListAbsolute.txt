@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Interfaces\bin\Debug\Generics_Interfaces.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Interfaces\bin\Debug\Generics_Interfaces.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Interfaces\bin\Debug\Generics_Interfaces.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Interfaces\obj\Debug\Generics_Interfaces.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Interfaces\obj\Debug\Generics_Interfaces.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Interfaces\obj\Debug\Generics_Interfaces.pdb

@@ -1,0 +1,6 @@
+Sum + 1000
+Nedostatno money on rahynok
+Sum + 1000
+Nedostatno money on rahynok
+DO Sumu add + 1000$
+Nedostatno money on rahynok; Rahynok: 2000, But you want take 3000

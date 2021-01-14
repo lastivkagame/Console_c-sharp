@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generic_Collection\bin\Debug\Generic_Collection.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generic_Collection\bin\Debug\Generic_Collection.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generic_Collection\bin\Debug\Generic_Collection.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generic_Collection\obj\Debug\Generic_Collection.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generic_Collection\obj\Debug\Generic_Collection.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generic_Collection\obj\Debug\Generic_Collection.pdb

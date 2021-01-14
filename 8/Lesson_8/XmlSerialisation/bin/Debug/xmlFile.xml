@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Brand>Audi</Brand>
+  <Model>A8</Model>
+  <engine Power="3.5" />
+</Car>

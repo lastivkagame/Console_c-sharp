@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\bin\Debug\FileStreamDemo.exe.config
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\bin\Debug\FileStreamDemo.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\bin\Debug\FileStreamDemo.pdb
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\obj\Debug\FileStreamDemo.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\obj\Debug\FileStreamDemo.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\FileStreamDemo\obj\Debug\FileStreamDemo.pdb

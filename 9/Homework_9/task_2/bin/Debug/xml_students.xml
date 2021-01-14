@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Oleg</Name>
+    <LastName>Kovalchuk</LastName>
+    <Age>21</Age>
+    <ListGrades Mark="10" Subject="c#" />
+    <StudentID>f3f9581c-9fde-4b87-84c9-9df2110321f3</StudentID>
+  </Student>
+  <Student>
+    <Name>Sergiy</Name>
+    <LastName>Vovkov</LastName>
+    <Age>19</Age>
+    <StudentID>dd5ba2c5-0efa-4a25-ad84-f3c84c29fc75</StudentID>
+  </Student>
+  <Student>
+    <Name>Yana</Name>
+    <LastName>Romashkova</LastName>
+    <Age>20</Age>
+    <StudentID>96c3f7d3-39c0-4b1b-b3b3-34304fd2d5cf</StudentID>
+  </Student>
+  <Student>
+    <Name>Ema</Name>
+    <LastName>Persukova</LastName>
+    <Age>22</Age>
+    <StudentID>b0068f77-397c-4f45-bf12-def61fc952d6</StudentID>
+  </Student>
+</ArrayOfStudent>

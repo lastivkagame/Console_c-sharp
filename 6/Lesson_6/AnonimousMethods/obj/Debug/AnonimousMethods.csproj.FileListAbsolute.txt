@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\bin\Debug\AnonimousMethods.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\bin\Debug\AnonimousMethods.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\bin\Debug\AnonimousMethods.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\obj\Debug\AnonimousMethods.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\obj\Debug\AnonimousMethods.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\obj\Debug\AnonimousMethods.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\AnonimousMethods\obj\Debug\AnonimousMethods.csprojAssemblyReference.cache

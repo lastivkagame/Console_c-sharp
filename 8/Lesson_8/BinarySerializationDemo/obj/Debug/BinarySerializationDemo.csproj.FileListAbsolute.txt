@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\bin\Debug\BinarySerializationDemo.exe.config
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\bin\Debug\BinarySerializationDemo.exe
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\bin\Debug\BinarySerializationDemo.pdb
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.exe
+D:\Working place\Programming(step + other)\C#\8\Lesson_8\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.pdb

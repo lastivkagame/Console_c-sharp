@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DriveDemo\bin\Debug\DriveDemo.exe.config
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DriveDemo\bin\Debug\DriveDemo.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DriveDemo\bin\Debug\DriveDemo.pdb
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DriveDemo\obj\Debug\DriveDemo.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DriveDemo\obj\Debug\DriveDemo.exe
+D:\Working place\Programming(step + other)\C#\7\Lesson_7\DriveDemo\obj\Debug\DriveDemo.pdb

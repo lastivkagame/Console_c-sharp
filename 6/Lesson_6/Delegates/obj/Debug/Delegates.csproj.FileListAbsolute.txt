@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\bin\Debug\Delegates.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\bin\Debug\Delegates.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\bin\Debug\Delegates.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\obj\Debug\Delegates.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Delegates\obj\Debug\Delegates.pdb

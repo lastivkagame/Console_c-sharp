@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Oleg",
+    "LastName": "Kovalchuk",
+    "Age": 21,
+    "grades": [
+      {
+        "Mark": 10,
+        "Subject": "c#"
+      }
+    ],
+    "StudentId": "f3f9581c-9fde-4b87-84c9-9df2110321f3"
+  },
+  {
+    "Name": "Sergiy",
+    "LastName": "Vovkov",
+    "Age": 19,
+    "grades": [],
+    "StudentId": "dd5ba2c5-0efa-4a25-ad84-f3c84c29fc75"
+  },
+  {
+    "Name": "Yana",
+    "LastName": "Romashkova",
+    "Age": 20,
+    "grades": [],
+    "StudentId": "96c3f7d3-39c0-4b1b-b3b3-34304fd2d5cf"
+  },
+  {
+    "Name": "Ema",
+    "LastName": "Persukova",
+    "Age": 22,
+    "grades": [],
+    "StudentId": "b0068f77-397c-4f45-bf12-def61fc952d6"
+  }
+]

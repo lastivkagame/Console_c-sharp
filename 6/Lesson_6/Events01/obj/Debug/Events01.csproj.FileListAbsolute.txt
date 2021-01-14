@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\bin\Debug\Events01.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\bin\Debug\Events01.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\bin\Debug\Events01.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\obj\Debug\Events01.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\obj\Debug\Events01.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\obj\Debug\Events01.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Events01\obj\Debug\Events01.pdb

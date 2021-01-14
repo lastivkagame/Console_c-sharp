@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Class\bin\Debug\Generics_Class.exe.config
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Class\bin\Debug\Generics_Class.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Class\bin\Debug\Generics_Class.pdb
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Class\obj\Debug\Generics_Class.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Class\obj\Debug\Generics_Class.exe
+D:\Working place\Programming(step + other)\C#\6\Lesson_6\Generics_Class\obj\Debug\Generics_Class.pdb
